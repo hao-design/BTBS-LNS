@@ -1,3 +1,5 @@
+### Notes: Will be public available upon acceptance
+
 ### BTBS-LNS: A Binarized-Tightening, Branch and Search Approach of Learning Large Neighborhood Search Policies for MIP
 
 A hybrid approach to learn hybrid branch and search policies for solving general mixed integer programming problems.
